@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class ResultadoEscolar {
   public static void main(String[] args) {
-    int nota = 10;
+    int nota = 7;
 
     // condições ternarias com o mesmo exemplo de notas abaixo
 

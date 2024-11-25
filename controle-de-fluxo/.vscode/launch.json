@@ -1,0 +1,87 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ResultadoEscolar",
+      "request": "launch",
+      "mainClass": "ResultadoEscolar",
+      "projectName": "controle-de-fluxo_b3d6b81a"
+    },
+    {
+      "type": "java",
+      "name": "FormatorCepExemplo",
+      "request": "launch",
+      "mainClass": "FormatorCepExemplo",
+      "projectName": "controle-de-fluxo_b3d6b81a"
+    },
+    {
+      "type": "java",
+      "name": "ExemploExcecao",
+      "request": "launch",
+      "mainClass": "ExemploExcecao",
+      "projectName": "controle-de-fluxo_b3d6b81a"
+    },
+    {
+      "type": "java",
+      "name": "AboutMe",
+      "request": "launch",
+      "mainClass": "AboutMe",
+      "projectName": "controle-de-fluxo_b3d6b81a"
+    },
+    {
+      "type": "java",
+      "name": "ExemploDoWhile",
+      "request": "launch",
+      "mainClass": "ExemploDoWhile",
+      "projectName": "controle-de-fluxo_b3d6b81a"
+    },
+    {
+      "type": "java",
+      "name": "ExemploWhile",
+      "request": "launch",
+      "mainClass": "ExemploWhile",
+      "projectName": "controle-de-fluxo_b3d6b81a"
+    },
+    {
+      "type": "java",
+      "name": "ExemploBreakContinue",
+      "request": "launch",
+      "mainClass": "ExemploBreakContinue",
+      "projectName": "controle-de-fluxo_b3d6b81a"
+    },
+    {
+      "type": "java",
+      "name": "ExemploForArray",
+      "request": "launch",
+      "mainClass": "ExemploForArray",
+      "projectName": "controle-de-fluxo_b3d6b81a"
+    },
+    {
+      "type": "java",
+      "name": "ExemploFor",
+      "request": "launch",
+      "mainClass": "ExemploFor",
+      "projectName": "controle-de-fluxo_b3d6b81a"
+    },
+    {
+      "type": "java",
+      "name": "SistemaMedida",
+      "request": "launch",
+      "mainClass": "SistemaMedida",
+      "projectName": "controle-de-fluxo_b3d6b81a"
+    },
+    {
+      "type": "java",
+      "name": "PlanoOperadora",
+      "request": "launch",
+      "mainClass": "PlanoOperadora",
+      "projectName": "controle-de-fluxo_b3d6b81a"
+    },
+    {
+      "type": "node-terminal",
+      "name": "Terminal de Depuração de JavaScript",
+      "request": "launch",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
